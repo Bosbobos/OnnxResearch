@@ -1,0 +1,5 @@
+Pillow~=10.1
+numpy~=1.26
+onnx
+onnxruntime
+opencv-python~=4.6
